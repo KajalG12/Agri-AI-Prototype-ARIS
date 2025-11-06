@@ -57,9 +57,8 @@ It transforms raw agricultural data into actionable insights using AI-based yiel
 | RMSE | 2.14 |
 
 📊 Example chart (add your actual one here):  
-![Yield Prediction Chart](Images/Actual_Vs_Predicted_Crop_Yield.png)
-![Feature corelation heatmap Chart](Images/Feature_corelation_Heatmap.png)
-
+![Actual vs Predicted Crop Yield](images/Actual_Vs_Predicted_Crop_Yield.png)
+![Feature Correlation Heatmap](images/Feature_corelation_Heatmap.png)
 ---
 
 ## 🧰 Tech Stack
