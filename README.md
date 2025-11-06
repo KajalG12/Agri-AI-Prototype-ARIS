@@ -81,5 +81,5 @@ It transforms raw agricultural data into actionable insights using AI-based yiel
 
 ## 🧑‍💻 Author
 **Kajal G.** 
-## 📦 Project Structure
+
 
